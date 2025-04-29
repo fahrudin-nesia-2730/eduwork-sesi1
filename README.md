@@ -1,2 +1,2 @@
 # eduwork-sesi1
-ini dalah repo untuk pembelajarn programing di eduwork
+ini dalah repo untuk pembelajaran programing di web eduwork
